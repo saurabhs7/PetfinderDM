@@ -1,2 +1,2 @@
-# PetfinderDM
-Project for Data Mining Class. Predict pet adoption rate
+# ProjectPetfinder
+Machine Learning to predict pet adoption rate
